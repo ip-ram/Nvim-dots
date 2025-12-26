@@ -2,7 +2,7 @@
 
 ### Установка
 ```bash
-git clone https://github.com/ip-ram/Nvim-dots.git ~/.config/nvim/*
+git clone https://github.com/ip-ram/Nvim-dots.git ~/.config/nvim/
 ```
 ### В neo vim
 ```
