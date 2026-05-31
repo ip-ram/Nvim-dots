@@ -13,7 +13,7 @@ return {
           keywords = { italic = false },
         },
         on_colors = function(colors)
-          colors.bg = "#2b2b2b" -- основной фон
+          colors.bg = "#000000"      -- основной фон
           colors.bg_dark = "#242424" -- фон сплитов / sidebar
           colors.bg_float = "#2b2b2b"
         end,
